@@ -3,4 +3,6 @@ Repositório de conteúdo das disciplinas Métodos de Desenvolvimento de Softwar
 
 Professor Responsável: George Marsicano (georgemarsicano@unb.br))
 
-Wiki das discplinas: https://github.com/mdsreq-fga-unb/Disciplina-MDS-REQ/wiki
+Wiki das disciplinas: https://github.com/mdsreq-fga-unb/Disciplina-MDS-REQ/wiki
+
+Repositórios de projetos: https://github.com/orgs/mdsreq-fga-unb/repositories
